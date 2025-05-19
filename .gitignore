@@ -1,0 +1,37 @@
+# תיקיות וקבצים של סביבת הפיתוח
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# קבצי בנייה ותוצרים
+/dist
+/build
+/out
+/.next
+
+# קבצי לוג
+logs
+*.log
+
+# קבצי מערכת הפעלה
+.DS_Store
+Thumbs.db
+
+# קבצי עורכי קוד
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# קבצים זמניים
+*.tmp
+*.temp
