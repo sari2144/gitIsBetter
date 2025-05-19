@@ -1,4 +1,31 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#sW{
+
+    color: rgb(226, 43, 86);
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 .rivkysStyle{
     border-radius: 2px dashed #0aece1;
     color: blue;
@@ -44,6 +71,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 h1{
     background-color: blue;
+
 
 
 }
