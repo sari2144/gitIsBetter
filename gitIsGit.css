@@ -1,9 +1,82 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#sW{
+
+    color: rgb(226, 43, 86);
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+.rivkysStyle{
+    border-radius: 2px dashed #0aece1;
+    color: blue;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+
+
+
+.rw{
+background-color: darkcyan;
+color: darkseagreen;
+border: 2px dashed blue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+
+
+#idy{
+    color: rgba(45, 154, 222, 0.479);
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: initial;
+
+
+
+
+
+
+
+
+
+#racheli{
+    direction: rtl;
+    color: brown;
+
+
 h1{
     background-color: blue;
+
 }
 div{
     background-color: rgb(179, 255, 0);
 }
 p{
     background-color: rgb(192, 137, 130);
+
 }
